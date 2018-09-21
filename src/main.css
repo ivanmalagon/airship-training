@@ -1,0 +1,12 @@
+body {
+  background-color: bisque;
+}
+
+.layer-selector {
+  display: flex;
+  align-items: center;
+}
+
+.layer-selector .as-body {
+  margin-bottom: 0;
+}
